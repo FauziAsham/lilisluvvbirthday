@@ -376,6 +376,6 @@ body {
   transform: scale(1.05);
 }
 #myButton {
-  opacity: 0;
+  opacity: 100;
   transform: translateY(20px);
 }
